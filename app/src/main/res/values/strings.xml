@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">tip_calculator_compose</string>
+
     <string name="calculate_tip">Посчитать чаевые</string>
     <string name="bill_amount">Сумма чека</string>
     <string name="tip_amount">Чаевые: %s</string>
+    <string name="percentage">Процент чаевых</string>
+    <string name="round_up_tip">Округлить чаевые?</string>
+
 </resources>
